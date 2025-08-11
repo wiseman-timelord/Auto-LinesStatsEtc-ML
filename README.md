@@ -39,7 +39,7 @@ The system also incorporates basic on-chart data-driven learning from historical
 
 ![Chart Display Prototype](./Media/Chart_Display_Prototype.jpg)
 
-- Here is when `Auto-LinesStatsEtc` is combined with `Gold Weekly` my other indicator.
+- Here is when `Auto-LinesStatsEtc` is combined with `Gold Weekly` my other indicator, both are a bit buggy, but basically producing the desired effect, just need refining.
 
 ![Chart Display Prototype](./Media/gold_weekly_also.jpg)
 
