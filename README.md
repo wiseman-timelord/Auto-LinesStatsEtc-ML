@@ -35,6 +35,7 @@ The system also incorporates basic on-chart data-driven learning from historical
   - Prediction refinement
 
 ### Media:
+- I draw some lines in metatrader and gave GPT5 the image of the pair on the bottom part with the lines I drew, and several sessions later using additionally KIMIK2/Claude4, and then some tweaking (see `.set` file) it looks like the top pair in the image. 
 
 ![Chart Display Prototype](./Media/Chart_Display_Prototype.jpg)
 
