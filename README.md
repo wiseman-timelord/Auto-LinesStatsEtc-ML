@@ -36,7 +36,7 @@ The system also incorporates basic on-chart data-driven learning from historical
 
 ### Media:
 
-![Chart Display Prototype](./media/Chart_Display_Prototype.jpg)
+![Chart Display Prototype](./Media/Chart_Display_Prototype.jpg)
 
 ## Logic:
 1. **Initialization Stage (`OnInit`)**
