@@ -82,3 +82,7 @@ The system also incorporates basic on-chart data-driven learning from historical
    - Based on current slope, volatility, and recent breakout patterns, estimate where next lines may form.
    - Draw light-colored "projection lines" ahead of current price.
 
+### Development
+- the text display is bonkers.
+- the lines seem to stop mid-way across the screen.
+- it would be nice to have ~4 sliders in the ui for main settings. Is that even possible?
