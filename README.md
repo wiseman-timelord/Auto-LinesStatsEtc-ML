@@ -34,6 +34,10 @@ The system also incorporates basic on-chart data-driven learning from historical
   - Basic ML adjustments
   - Prediction refinement
 
+### Media:
+
+![Chart Display Prototype](./media/Chart_Display_Prototype.jpg)
+
 ## Logic:
 1. **Initialization Stage (`OnInit`)**
    - Detect chart symbol.
