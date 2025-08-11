@@ -86,3 +86,4 @@ The system also incorporates basic on-chart data-driven learning from historical
 - the text display is bonkers.
 - the lines seem to stop mid-way across the screen.
 - it would be nice to have ~4 sliders in the ui for main settings. Is that even possible?
+- the lines should be red if they are going down, white if they are going across with deadzone of 5% up/down, for white, and blue if they are going up.
