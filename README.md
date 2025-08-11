@@ -1,4 +1,5 @@
 # Auto-LinesStatsEtc-ML
+Status: Alpha - Its not complete/working yet.
 
 ### Description:
 A MetaTrader 5 custom indicator designed for assisting manual trading on Gold pairs (e.g., XAUUSD).  
