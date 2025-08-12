@@ -89,5 +89,5 @@ The system also incorporates basic on-chart data-driven learning from historical
 ### Development
 - the text display looks bonkers, seems to have a space between each displayed text line, and is unclear what they mean.
 - the lines seem to stop mid-way across the screen.
-- it would be nice to have ~4 sliders in the ui for main settings. Is that even possible?
 - the lines should be red if they are going down, white if they are going across with deadzone of 5% up/down, for white, and blue if they are going up.
+- it would be nice to have some sliders in the external inputs for key settings. Is that even possible? Research.
