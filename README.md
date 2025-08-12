@@ -89,7 +89,6 @@ The system also incorporates basic on-chart data-driven learning from historical
 ### Development
 - the text display looks corrupted, space between each displayed text line spaces content off display (remove line inbetween).
 - the lines seem to stop mid-way across the screen, no matter how many sections I configured for.
-- the external inputs need concise 3-5 word comments individually for each line.
 - the lines should be white if they are going across with deadzone to <2.5% up/down for white (Straight), >2.5%-10% up/down for cyan/pink (SemiUp/SemiDown), and blue/red if >10% (Up/Down). I want what the current one is predicted to be based on current data, to be written.
 
 ### Revisions
