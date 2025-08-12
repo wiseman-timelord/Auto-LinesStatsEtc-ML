@@ -92,5 +92,9 @@ The system also incorporates basic on-chart data-driven learning from historical
 - the external inputs need concise 3-5 word comments individually for each line.
 - the lines should be white if they are going across with deadzone to <2.5% up/down for white (Straight), >2.5%-10% up/down for cyan/pink (SemiUp/SemiDown), and blue/red if >10% (Up/Down). I want what the current one is predicted to be based on current data, to be written.
 
+### Revisions
+- 001 - Initial upload.
+- 002 - Text on external input comments made clearer.
+
 ### Research
 - it would be nice to have sliders in the, externalInputs or chart window, for key settings, keeping things within known ranges. Is that possible in MetaTrader 5? Obviously Gradio interface would be more work, but solution if not.
