@@ -35,11 +35,11 @@ The system also incorporates basic on-chart data-driven learning from historical
   - Prediction refinement
 
 ### Media:
-- I draw some lines in metatrader and gave GPT5 the image of the pair on the bottom part with the lines I drew, and several sessions later using additionally KIMIK2/Claude4, and then some tweaking (see `.set` file) it looks like the top pair in the image. 
+- I draw some lines in metatrader on the chart, and gave GPT5 the image (lower chart), and several AI sessions later it has multicolor lines that need fixing. 
 
 ![Chart Display Prototype](./Media/Chart_Display_Prototype.jpg)
 
-- Here is when `Auto-LinesStatsEtc` is combined with `Gold Weekly` my other indicator, both are a bit buggy, but basically producing the desired effect, just need developing little further.
+- Here is when `Auto-LinesStatsEtc` currently is combined with `Gold Weekly` my other indicator, both are a bit buggy, but basically producing the desired effect, just need developing little further.
 
 ![Chart Display Prototype](./Media/gold_weekly_also.jpg)
 
