@@ -35,7 +35,7 @@ The system also incorporates basic on-chart data-driven learning from historical
   - Prediction refinement
 
 ### Media:
-- I draw some lines in metatrader on the chart, and gave GPT5 the image (lower chart), and several AI sessions later it has multicolor lines that need fixing. 
+- I draw some lines in metatrader on the chart, and gave GPT5 the image (lower chart), and several AI sessions later it has multicolor lines that need fixing (upper chart). 
 
 ![Chart Display Prototype](./Media/Chart_Display_Prototype.jpg)
 
